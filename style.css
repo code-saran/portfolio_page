@@ -43,8 +43,8 @@ margin:60px 84px;
 .firstSection{
     display: flex;
     justify-content: space-around;
-    margin: 80px, 0;
-
+    align-items:center;
+    margin: 120px, 0;
 }
 .firstSection>div{
     width:30%;
@@ -57,8 +57,12 @@ margin:70px,0;
 max-width:80vw;
 margin:auto;
 }
-.sectionSection h1{
-font-size:1.9rem;}
+.sectionSection h1
+{
+font-size:1.9rem;
+}
+.text-gray{
+    color:gray;}
 .rightSection img{
     width:80%;
 }
