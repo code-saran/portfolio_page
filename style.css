@@ -29,7 +29,14 @@ nav ul li{
     color:white;
 }
 nav ul li a:hover{
-    color:white;}
+    color:white;
+}
+main hr{
+border:0;
+background:#9c97f1;
+height:1.2px;
+margin:60px 84px;
+}
 .left{
     font-size: 1.5rem;
 }
@@ -46,9 +53,19 @@ nav ul li a:hover{
 font-size: 3rem;
 margin:70px,0;
 }
+.secondSection{
+max-width:80vw;
+margin:auto;
+}
+.sectionSection h1{
+font-size:1.9rem;}
 .rightSection img{
     width:80%;
 }
 .purple{
     color:rgb(130, 43, 212);
+}
+#element
+{
+color:rgb(170,107,228);
 }
